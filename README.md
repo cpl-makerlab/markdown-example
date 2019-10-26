@@ -1,6 +1,6 @@
 # About
 
-This is an example [markdown](https://daringfireball.net/projects/markdown/syntax) page. You can edit this file directly in Github's built-in editor or your own code editor. Github automatically renders markdown files when viewing. Here's the [Original Markdown documentation](https://daringfireball.net/projects/markdown/), and [Github-flavored Markdown's documentation](https://guides.github.com/features/mastering-markdown/) (some slight differences). 
+This is an example [markdown](https://daringfireball.net/projects/markdown/syntax) page. You can edit this file directly in Github's built-in editor or your own code editor. Github automatically renders markdown files when viewing. Here's the [Original Markdown documentation](https://daringfireball.net/projects/markdown/), and [Github-flavored Markdown's documentation](https://guides.github.com/features/mastering-markdown/) (some slight differences). Usually HTML is allowed within Markdown, on Github only certain tags are allowed. 
 
 Markdown syntax supports [hyperlinks](http://www.duckduckgo.com), *italics*, **bold** text, and lots more.
 
@@ -37,12 +37,6 @@ create a new paragraph.
 Adding two spaces at the end of a line  
 acts as a simple line break.
 
-<div class="row">
-  <div class="col-sm-4">Regular HTML...</div>
-  <div class="col-sm-4">with Bootstrap row/col classes... </div>
-  <div class="col-sm-4">will also work.</div>
-</div>
-
 ***
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4tAsNON4SN0" frameborder="0" allowfullscreen></iframe>
+<b>This</b> is an example of <i>HTML</i> formatting within Markdown. Github-flavored Markdown only supports some HTML tags.
