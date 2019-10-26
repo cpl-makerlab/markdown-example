@@ -1,6 +1,6 @@
 # About
 
-This is an example [markdown](https://daringfireball.net/projects/markdown/syntax) page. You can edit this file directly in Github's built-in editor or your own code editor. Github automatically renders markdown files when viewing. Here's the [Original Markdown documentation](https://daringfireball.net/projects/markdown/), and [Github-flavored Markdown's documentation](https://guides.github.com/features/mastering-markdown/) (some slight differences). Usually HTML is allowed within Markdown, on Github only certain tags are allowed. 
+This is an example [markdown](https://daringfireball.net/projects/markdown/syntax) page. You can [view source](https://raw.githubusercontent.com/cpl-makerlab/markdown-example/master/README.md) or edit this file directly in Github's built-in editor or your own code editor. Github automatically renders markdown files when viewing. Here's the [Original Markdown documentation](https://daringfireball.net/projects/markdown/), and [Github-flavored Markdown's documentation](https://guides.github.com/features/mastering-markdown/) (some slight differences). Usually HTML is allowed within Markdown, on Github only certain tags are allowed. 
 
 Markdown syntax supports [hyperlinks](http://www.duckduckgo.com), *italics*, **bold** text, and lots more.
 
