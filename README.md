@@ -37,6 +37,7 @@ create a new paragraph.
 Adding two spaces at the end of a line  
 acts as a simple line break.
 
+Three asterisks creates a horizontal line break:
 ***
 
-<b>This</b> is an example of <i>HTML</i> formatting within Markdown. Github-flavored Markdown only supports some HTML tags.
+Standard <b>HTML</b> formatting <b>is</b> also allowed within <i>Markdown</i>. Github-flavored Markdown does not support all HTML tags, however (i.e. iframe and script tags).
