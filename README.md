@@ -1,10 +1,8 @@
 # About
 
-This is an example [markdown](https://daringfireball.net/projects/markdown/syntax) page. You can [view the raw file](https://raw.githubusercontent.com/cpl-makerlab/markdown-example/master/README.md) or edit this file directly in Github's built-in editor or your own code editor. Github automatically renders markdown files when viewing. Here's the [Original Markdown documentation](https://daringfireball.net/projects/markdown/), and [Github-flavored Markdown's documentation](https://guides.github.com/features/mastering-markdown/) (some slight differences). Usually HTML is allowed within Markdown, but on Github only certain tags are allowed. 
+This is an example [markdown](https://daringfireball.net/projects/markdown/syntax) page. You can [view the raw file](https://raw.githubusercontent.com/cpl-makerlab/markdown-example/master/README.md) or edit this file directly in Github's built-in editor or your own code editor. Github automatically renders markdown files when viewing. Here's the [official markdown documentation](https://daringfireball.net/projects/markdown/), and [github-flavored markdown's documentation](https://guides.github.com/features/mastering-markdown/) (some slight differences). Usually HTML is allowed within Markdown, but on Github only certain tags are allowed. 
 
-> Markdown is a text-to-HTML conversion tool for web writers. Markdown allows you to write using an easy-to-read, easy-to-write plain text format, then convert it to structurally valid XHTML (or HTML). - *[Daring Fireball](https://daringfireball.net/projects/markdown/)*
-
-
+> Markdown is a lightweight markup language with plain text formatting syntax.  - *[Daring Fireball](https://daringfireball.net/projects/markdown/)*
 
 Markdown syntax supports [hyperlinks](http://www.duckduckgo.com), *italics*, **bold** text, and lots more.
 
