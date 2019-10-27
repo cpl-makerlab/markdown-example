@@ -23,6 +23,8 @@ Markdown syntax supports [hyperlinks](http://www.duckduckgo.com), *italics*, **b
 
 > Blockquote (highlighted text)  
 
+![Angry Ostrich](https://i.imgur.com/lF5woJMl.jpg)
+
 Column1 | Column2 | Column3
 --- | --- | ---
 What | about | tables?
